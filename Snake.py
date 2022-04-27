@@ -1,3 +1,8 @@
+#
+# Copyright 2021 nathanrsxtn
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 from random import uniform
 from turtle import Screen, Turtle, Vec2D
 # ------- Output Setup -------- #
